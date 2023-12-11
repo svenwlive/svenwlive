@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @svenwlive
 - 👀 I’m interested in Streaming/Video Creation, Programming, Gaming
-- 🌱 I’m currently learning Python (Python 3 for the most part)
+- 🌱 I'm currently not doing much on github
 - 💞️ I’m looking to collaborate on nothing as of right now
 - 📫 How to reach me: Check the lines below:
 -     Discord: svenwlive
 -     Twitter: @svenwlive
--     Email: svenwlive.ttv@gmail.com
+-     Email: svenwlive.ttv@gmail.com OR svenwlive@icloud.com
 
 <!---
 svenwlive/svenwlive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
