@@ -5,7 +5,7 @@
 - 📫 How to reach me: Check the lines below:
 -     Discord: svenwlive
 -     Twitter: @svenwlive
--     Email: svenwlive.ttv@gmail.com (INACTIVE) OR svenwlive@icloud.com
+-     Email: 	~~svenwlive.ttv@gmail.com~~ (INACTIVE) OR svenwlive@icloud.com
 
 <!---
 svenwlive/svenwlive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
